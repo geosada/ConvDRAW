@@ -13,11 +13,15 @@ The DRAW process proceeds in 8 steps from the leftmost column to the second colu
   <img src="https://raw.githubusercontent.com/geosada/ConvDRAW/img/test3.png" width="512">
 </div>
 
-This code was written considerably inspired from [Eric Jang's DRAW](https://github.com/ericjang/draw).
+This code was based on [Eric Jang's DRAW](https://github.com/ericjang/draw).
 
 ## Usage
 
 ```python main.py```
+
+## ToDo
+
+Theere seems to be something bug in tensor multiplication in write attention function therefore it turns off now.
 
 
 ## Useful Resources
