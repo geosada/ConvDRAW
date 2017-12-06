@@ -5,6 +5,9 @@ TensorFlow Implementation of DeepMind’s Convolutional DRAW: [“Towards Concep
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/geosada/ConvDRAW/img/test.gif" width="512">
 </div>
+
+The DRAW process proceeds in 8 steps from the leftmost column to the second column from the left and the rightmost column is original images. 
+
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/geosada/ConvDRAW/img/test.png" width="512">
   <img src="https://raw.githubusercontent.com/geosada/ConvDRAW/img/test3.png" width="512">
