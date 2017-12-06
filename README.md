@@ -7,6 +7,7 @@ TensorFlow Implementation of DeepMind’s Convolutional DRAW: [“Towards Concep
 </div>
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/geosada/ConvDRAW/img/test.png" width="512">
+  <img src="https://raw.githubusercontent.com/geosada/ConvDRAW/img/test3.png" width="512">
 </div>
 
 This code was written considerably inspired from [Eric Jang's DRAW](https://github.com/ericjang/draw).
