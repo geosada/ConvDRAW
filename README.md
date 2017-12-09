@@ -1,6 +1,6 @@
 # ConvDRAW
 
-TensorFlow Implementation of DeepMind’s Convolutional DRAW: [“Towards Conceptual Compression”](http://papers.nips.cc/paper/6542-towards-conceptual-compression) (NIPS2016) on the SVHN generation task.
+TensorFlow Implementation of DeepMind’s Convolutional DRAW: [“Towards Conceptual Compression”](http://papers.nips.cc/paper/6542-towards-conceptual-compression) (NIPS 2016) on the SVHN generation task.
 
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/geosada/ConvDRAW/img/test.gif" width="512">
@@ -21,7 +21,7 @@ This code was based on [Eric Jang's DRAW](https://github.com/ericjang/draw).
 
 ## ToDo
 
-Theere seems to be something bug in tensor multiplication in write attention function therefore it turns off now.
+There seems to be something bug in tensor multiplication in write attention function therefore it turns off now.
 
 
 ## Useful Resources
